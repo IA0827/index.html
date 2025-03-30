@@ -1,0 +1,56 @@
+<!DOCTYPE html><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ineffable Aeon</title>
+    <style>
+        body {
+            font-family: 'Times New Roman', serif;
+            background-color: #f5f5dc;
+            color: #2e2e2e;
+            text-align: center;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            background: #fff;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            font-size: 2.5em;
+        }
+        p {
+            font-size: 1.2em;
+            line-height: 1.8;
+            text-align: justify;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Ineffable Aeon</h1>
+        <p>
+            Time, that wraith of silent flight,<br>
+            With argent wings in spectral light.<br>
+            It whispers past in zephyr's breath,<br>
+            And leaves behind the dust of death.<br><br>
+            Oh fleeting hours! ephemeral streams,<br>
+            Evading grasp like woven dreams.<br>
+            The pendulum swings in endless sway,<br>
+            Yet moments perish on their way.<br><br>
+            No grasping hand nor mortal plea,<br>
+            Can halt the tide of destiny.<br>
+            The sun ascends, then bids adieu,<br>
+            And stars arise in somber hue.<br><br>
+            The echoes fade, the seasons turn,<br>
+            The past is but a book we burn.<br>
+            In mem'ry’s vault, in fleeting sight,<br>
+            Time lingers only in the night.<br>
+        </p>
+    </div>
+</body>
+</html>
